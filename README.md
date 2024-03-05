@@ -1,6 +1,6 @@
 # Piano App
 
-This is a simple piano app that plays piano sounds depending on the key that is clicked. It utilizes the `assets_audio_player` library to play the sounds.
+This is a sile piano app that plays piano sounds depending on the key that is clicked. It utilizes the `assets_audio_player` library to play the sounds.
 
 ## Features
 
