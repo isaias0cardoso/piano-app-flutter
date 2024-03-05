@@ -1,5 +1,7 @@
 # Piano App
 
+![Capa do Projeto](https://github.com/isaias0cardoso/piano-app-flutter/blob/main/Piano%20App.png)
+
 This is a sile piano app that plays piano sounds depending on the key that is clicked. It utilizes the `assets_audio_player` library to play the sounds.
 
 ## Features
